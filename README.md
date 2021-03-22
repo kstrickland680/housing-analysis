@@ -28,16 +28,16 @@ The mean of the residuals graph is centered around 0, showing that the model doe
 
 The Train and Test mean squared errors are 0.19 and 0.188, which is good as they do not show a big difference between each other.
 
-![picture](images/Normality.jpg)
+![picture](/images/Normality.jpg)
 
 ## Correlations
 
 Square foot of living area, grade, and bathrooms are 3 variables highly correlateted with price. This means that real estate agents could focus on this when pricing houses.  They could also recommend potential sellers to add a bathroom onto the house or improve the grade by improving construction/design. 
 
-![picture](images/corr.jpg)
-![picture](images/Grade.jpg)
-![picture](images/bathrooms.jpg)
-![picture](images/sqft_living.jpg)
+![picture](/images/corr.jpg)
+![picture](/images/Grade.jpg)
+![picture](/images/bathrooms.jpg)
+![picture](/images/sqft_living.jpg)
 
 
 ## Conclusions
@@ -54,7 +54,7 @@ Square foot of living area, grade, and bathrooms are 3 variables highly correlat
 
 ## For More Information
 
-Please review my full analysis in my [Jupyter Notebook](housing-analysis.ipynb) or my [presentation](Housing-Analysis-Presentation.pdf).
+Please review my full analysis in my [Jupyter Notebook](housing-analysis.ipynb) or my [presentation](Housing Analysis Presentation.pdf).
 
 ## Repository Structure
 - README.md <- The top-level README for reviewers of this project. 
